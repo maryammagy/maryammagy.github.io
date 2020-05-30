@@ -13,4 +13,5 @@ This is Mohsen Rakhshan's website. I am a computational neuroscientist and an el
 Education
 ======
 2017-      Computational and Cognitive Neuroscience, Dartmouth College, NH
+
 2015-2017  Systems and Control Engineering, Notre Dame, IN
