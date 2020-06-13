@@ -14,10 +14,10 @@ I am passionate about Neural prosthetics, Brain-computer interface, Neural Engin
 
 Education
 ======
-2017-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Computational and Cognitive Neuroscience, Dartmouth College, NH, USA
+2017-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ph.D. Computational and Cognitive Neuroscience, Dartmouth College, NH, USA
 
-2015-2017  Electrical Engineering (Signals, Systems and Control), Notre Dame, IN, USA
+2015-2017  M.S. Electrical Engineering (Signals, Systems and Control), Notre Dame, IN, USA
 
-2013-2015  Electrical Engineering (Control), Shiraz University of Technology, IR
+2013-2015  M.S. Electrical Engineering (Control), Shiraz University of Technology, IR
 
-2009-2013  Electrical Engineering (Systems and Control), Shiraz University, IR
+2009-2013  B.S. Electrical Engineering (Systems and Control), Shiraz University, IR
