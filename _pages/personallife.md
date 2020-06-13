@@ -4,8 +4,7 @@ title: "Personal Life"
 excerpt: /personallife/
 author_profile: true
 redirect_from: 
-  - /personallife/
-  - /personallife.html
+  - /resume
 ---
 
 I am a Ph.D. candidate in Computational and Cognitive Neuroscience at Dartmouth College. I graduated from University of Notre Dame with a M.S. in Electrical Engineering focusing on Signals, Systems, and Control. I also graduated from Shiraz University with a B.S. in Electrical Engineering focusing on Systems and Control.  

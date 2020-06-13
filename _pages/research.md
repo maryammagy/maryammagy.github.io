@@ -4,8 +4,7 @@ title: "Research"
 excerpt: /research/
 author_profile: true
 redirect_from: 
-  - /research/
-  - /research.html
+  - /resume
 ---
 
 My research studies so far can be summarized in two very broad areas:
