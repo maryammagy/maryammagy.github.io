@@ -13,6 +13,6 @@ I am passionate about Neural prosthetics, Brain-computer interface, Neural Engin
 
 Education
 ======
-2017-&nbsp Computational and Cognitive Neuroscience, Dartmouth College, NH
+2017-&nbsp; Computational and Cognitive Neuroscience, Dartmouth College, NH
 
 2015-2017  Systems and Control Engineering, Notre Dame, IN
