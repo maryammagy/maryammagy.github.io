@@ -16,7 +16,7 @@ Education
 ======
 2017-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Computational and Cognitive Neuroscience, Dartmouth College, NH, USA
 
-2015-2017  Electrical Engineering (Signals, Systems and Control) Notre Dame, IN, USA
+2015-2017  Electrical Engineering (Signals, Systems and Control), Notre Dame, IN, USA
 
 2013-2015  Electrical Engineering (Control), Shiraz University of Technology, IR
 
