@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 My research studies so far can be summarized in two very broad areas:
-  * Role of reward feedback in cognition and metacognition
-  * Intelligent (artificial intelligence) control system design
+  * Role of reward feedback in cognition and metacognition (real intelligence)
+  * Intelligent control system design (artificial intelligence)
 
 
 
@@ -17,11 +17,11 @@ My research studies so far can be summarized in two very broad areas:
 
 
 
-1. **Role of reward feedback in cognition and metacognition**
+1. **Role of reward feedback in cognition and metacognition (real intelligence)**
 
 in
 
-2. **Intelligent (artificial intelligence) control system design**
+2. **Intelligent control system design (artificial intelligence)**
 
 in
 
