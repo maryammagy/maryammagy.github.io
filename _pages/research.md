@@ -13,7 +13,15 @@ My research studies so far can be summarized in two very broad areas:
 
 
 
+
+
+
+
 1. **Role of reward feedback in cognition and metacognition**
+
 in
+
 2. **Intelligent (artificial intelligence) control system design**
+
 in
+
