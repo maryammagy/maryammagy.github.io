@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Personal Life"
-excerpt: "Personal Life"
+excerpt: /personallife/
 author_profile: true
 redirect_from: 
   - /personallife/

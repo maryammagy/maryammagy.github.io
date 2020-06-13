@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Research"
-excerpt: "Research"
+excerpt: /research/
 author_profile: true
 redirect_from: 
   - /research/
