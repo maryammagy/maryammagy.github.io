@@ -22,7 +22,7 @@ My research studies so far can be summarized in two broad areas:
 During my Ph.D. studies at Dartmouth College, I have been involved in different projects which all have one thing in common: **feedback**! We are interested to understand how reward feedback interacts with different metacognitive processes such as confidence, and also cognitive processes such as learning, perception or attention.
 
 
-* **Interaction of reward and confidence in an uncertain environment.** In one of our studies which was published and featured in Editor's highlights in [Nature Communications](https://www.nature.com/articles/s41467-019-12725-1) with collaboration of brilliant scientists from UCLA, we studied how reward feedback and confidence in choice interact in an environment with uncertainty in both reward and visual information.
+* **Interaction of reward and confidence in an uncertain environment.** In one of our studies which was published and featured in Editor's highlights in [Nature Communications](https://www.nature.com/articles/s41467-019-12725-1) with collaboration with brilliant scientists from UCLA, we studied how reward feedback and confidence in choice interact in an environment with uncertainty in both reward and visual information.
 
 <p align="center">
   <img width="460" height="300" src="../images/confidence.png">
