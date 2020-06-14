@@ -37,6 +37,10 @@ During my Ph.D. studies at Dartmouth College, I have been involved in different 
 
 * **Interaction of reward and perception in an uncertain environment.** In a study with help of amazing undergraduate research assistants which was published in [Journal of Cognitive Neuroscience](https://www.mitpressjournals.org/doi/full/10.1162/jocn_a_01516), we studied how reward feedback affects perceptual decision making. 
 
+<p align="center">
+  <img width="460" height="300" src="../images/DTR.png">
+</p>
+
 >>>
 **1-minute summary:** Imagine deciding whether your iPhone or your friend’s Google Pixel takes sharper photos. To make this decision impartially, you look at some photos on both phones but end up favoring your own phone. Your decision could be impartial and entirely based on perceived quality of photos on the two phones but could also be influenced by fun memories of taking photos with your phone. We wanted to see which hypothesis is more probable.
 >>>
