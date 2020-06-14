@@ -64,7 +64,8 @@ During my Ph.D. studies at Dartmouth College, I have been involved in different 
 
 * **Contribution of FEF to adaptive target selection.** This is an ongoing project in collaboration with Prof. [Tirin Moore](https://profiles.stanford.edu/tirin-moore)'s lab in Stanford University in which using computational modeling and electrophysiological manipulation, we aim to study the role of Frontal Eye Field in adaptive value-based decision making. The preprint would be out soon, so be sure to tune in for the updates!
 
-* **Adaptive learning in volatile environments.**  
+* **Adaptive learning in volatile environments.** This is another ongoing project that I have been working on in the past 2 years in collaboration with outstanding scientists from UCLA and University of Minnesota. We are using computational modeling and Psychophysics to study how we approximate the volatility of the environment and make a decision correspondingly based on the reward feedback. We are still working on it, so be sure to tune in for the updates!
+
 
 **Intelligent control system design (artificial intelligence)**
 
