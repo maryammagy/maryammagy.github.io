@@ -11,6 +11,7 @@ My research studies so far can be summarized into two broad areas:
   * Role of reward feedback in cognition and metacognition (real intelligence)
   * Intelligent control system design (artificial intelligence)
 
+**Note**: In order to make science more accessible and also remind myself why I am doing what I am doing, I like to write a summary of my projects in plain language without adding the scientific terminologies and complexities. So, I first write a ***1-minute summary*** in plain language and then ***Long summary*** for who might like to see more complicated stuff!
 <br/>
 
 
