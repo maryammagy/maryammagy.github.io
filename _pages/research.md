@@ -92,7 +92,12 @@ The proposed approach using polynomial fuzzy model is a generalization of the st
   <img width="460" height="300" src="../images/PDE.png">
 </p>
 
-
+>>>
+**1-minute summary:** Until we are hopefully transitioned completely to renewable energies, we need to make sure the production from fossil fuels and other chemical and biological processes are as efficient as possible to minimize pollution and waste of the products to nature. Therefore, it is important to make sure the conditions in which the process generates the high quality product is satisfied and maintained. The behavior of many of these types of processes can be modeled in a way that the products quality depends on both time of the process as well as on different parts of the process (for example, a fuel reactor). We call these models partial differential equation in mathematics. In general, controlling these types of models is a hard problem and yet we don't have solution for many of them. We proposed an approach that emulates a human operator's knowledge and experience to tackle this problem.
+>>>
+>>>
+**Long summary:** In this study, we presented a systematic approach to deal with the saturated control of a class of distributed parameter systems that can be modeled by the first-order hyperbolic partial differential equations (PDE). The approach extends (also improves over) the existing fuzzy Takagi–Sugeno (TS) state feedback designs for such systems by applying the concepts of the polynomial sum-of-squares (SOS) techniques. First, a fuzzy-polynomial model via Taylor series was used to model the semi-linear hyperbolic PDE system. Second, the closed-loop exponential stability of the fuzzy-PDE system was studied through the Lyapunov theory. This allowed us to derive a design methodology in which a more complex fuzzy state-feedback control was designed in terms of a set of SOS constraints which were then numerically computed via semidefinite programming. Finally, we showed the effectiveness of the proposed approach with simulating the output of a non-isothermal plug-flow reactor.
+>>>
 
 
 
