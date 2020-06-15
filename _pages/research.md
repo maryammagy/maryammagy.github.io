@@ -100,8 +100,9 @@ The proposed approach using polynomial fuzzy model is a generalization of the st
 >>>
 
 * **There are more artificial intelligent projects I have done!** In order to make this page a bit tidy I am going to list some of other projects I have done with a short description.
+>>>
+**Design of networked polynomial control systems.** In this project, we studied the problem of controlling a system through a communication channel such as internet. Assume that a surgeon wants to control a robotic arm remotely for a surgery. We want to make sure there is always control on the robotic arm even if there is a delay or temporary failure in connection between surgeon and the robotic arm. We studied the problem of controlling a system remotely in presence of random delays in the communication channel. You can read more about it [here](https://www.inderscienceonline.com/doi/pdf/10.1504/IJAAC.2016.075146).
+>>>
 
-## Design of networked polynomial control systems
-In this project
 
 
