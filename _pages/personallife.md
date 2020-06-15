@@ -85,4 +85,4 @@ Finally, I should mention I do all these activities while I am listening to may 
 <p align="center">
   <img width="460" height="300" src="../images/celine.png">
 </p>
-<div align="center">CEline Dion's concert in Boston</div>
+<div align="center">Celine Dion's concert in Boston</div>
