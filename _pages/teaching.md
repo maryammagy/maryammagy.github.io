@@ -44,16 +44,6 @@ It was only recently that I thought I should have more formal evaluation (and no
 <br/>
 <br/>
 
-**Evaluation 2019**
-
-<br/>
-<br/>
-<div style="display:table; margin-left:auto; margin-right:auto;"> 
-<iframe src="https://docs.google.com/viewer?url=https://github.com/mrakhsha/mrakhsha.github.io/raw/master/files/evaluation1.pdf&embedded=true" style="width:600px; height:800px;" frameborder="0"></iframe>
-</div>
-<br/>
-<br/>
-
 **Evaluation 2020**
 <br/>
 <br/>
@@ -61,5 +51,13 @@ It was only recently that I thought I should have more formal evaluation (and no
 <iframe src="https://docs.google.com/viewer?url=https://github.com/mrakhsha/mrakhsha.github.io/raw/master/files/evaluation2.pdf&embedded=true" style="width:600px; height:800px;" frameborder="0"></iframe>
 </div>
 <br/>
+<br/>
+
+**Evaluation 2019**
+<br/>
+<br/>
+<div style="display:table; margin-left:auto; margin-right:auto;"> 
+<iframe src="https://docs.google.com/viewer?url=https://github.com/mrakhsha/mrakhsha.github.io/raw/master/files/evaluation1.pdf&embedded=true" style="width:600px; height:800px;" frameborder="0"></iframe>
+</div>
 <br/>
 <br/>
