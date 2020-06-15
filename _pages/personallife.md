@@ -21,17 +21,19 @@ My hometown is a warm and dry city so I am not sure what I was thinking when I m
 
 <p align="center">
   <img width="460" height="300" src="../images/ice.png">
-  Ice castle in Woodstock, New Hampshire
 </p>
+*Ice castle in Woodstock, New Hampshire*
+
 <br/>
 <br/>
 However, living in New England made me connect to the nature and now wherever I go I just look for woods, lakes, and mountains!
 
 <p align="center">
   <img width="460" height="300" src="../images/nature2.png">
-  Hanover, New Hampshire
 </p>
+*Hanover, New Hampshire*
+
 <p align="center">
   <img width="460" height="300" src="../images/nature1.png">
-  Lake Tahoe, Nevada
 </p>
+*Lake Tahoe, Nevada*
