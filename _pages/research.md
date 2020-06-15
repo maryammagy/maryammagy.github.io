@@ -103,7 +103,6 @@ The proposed approach using polynomial fuzzy model is a generalization of the st
 >>>
 **Design of networked polynomial control systems.** In this project, we studied the problem of controlling a system through a communication channel such as internet. Assume that a surgeon wants to control a robotic arm remotely for a surgery. We want to make sure there is always control on the robotic arm even if there is a delay or temporary failure in connection between surgeon and the robotic arm. We studied the problem of controlling a system remotely in presence of random delays in the communication channel. You can read more about it [here](https://www.inderscienceonline.com/doi/pdf/10.1504/IJAAC.2016.075146).
 >>>
-
 >>>
 **Active noise control.** You might have seen or even have on of the headphones that can minimize the surrounding noise which we call them active noise control (or cancellation) headphones. In this project, we studied how can we increase the performance of the active noise control by combining signal processing approaches and artificial intelligence. We showed that we can combine conventional methods with adaptive neuro-fuzzy inference systems (ANFIS) or wavelet function with neural network to obtain better performance. You can read more about them [here](https://journals.sagepub.com/doi/full/10.1177/0263092316628260) and [here](https://dartmouthcolnh.library.ingentaconnect.com/content/asp/jcies/2014/00000003/00000002/art00004).
 >>>
