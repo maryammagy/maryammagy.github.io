@@ -27,7 +27,7 @@ My hometown is a warm and dry city so I am not sure what I was thinking when I m
 
 <br/>
 <br/>
-However, living in New England made me connect to the nature and now wherever I go I just look for woods, lakes, and mountains!
+However, living in New England made me to connect to the nature and now wherever I go I just look for woods, lakes, trails, and mountains!
 
 <p align="center">
   <img width="460" height="300" src="../images/nature2.png">
