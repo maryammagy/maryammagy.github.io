@@ -21,5 +21,5 @@ My hometown is a warm and dry city so I am not sure what I was thinking when I m
 
 <p align="center">
   <img width="460" height="300" src="../images/ice.png">
-  *Ice castle in Woodstock, New Hampshire*
+  Ice castle in Woodstock, New Hampshire
 </p>
