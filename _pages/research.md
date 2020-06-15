@@ -82,9 +82,7 @@ During my studies in the first years of college, when I was studying all these h
 >>>
 >>>
 **Long summary:** We introduced two different control approaches to increase the performance and efficiency of the solar photovoltaic (PV) electricity generation; fuzzy descriptor representation with model-based dynamic nonparallel-distributed compensation (non-PDC) controller, and polynomial fuzzy model (PFM)-based controller.
-
 The proposed approach using fuzzy descriptor representation with model-based dynamic nonparallel-distributed compensation (non-PDC) controller exploited a non-quadratic Lyapunov function (NQLF) to convert the controller design problem into a linear matrix inequality (LMI) problem. Furthermore, some slack LMI variables were introduced in the problem formulation which led to more relaxed conditions.
-
 The proposed approach using polynomial fuzzy model is a generalization of the standard Takagi–Sugeno fuzzy models and linear matrix inequality. We developed a direct maximum power (DMP)-based control structure which was formulated in terms of Sum of Squares (SOS) conditions. Unlike the conventional approaches, the proposed approach did not require exploring the maximum power operational point. Finally, in order to show the effectiveness of the method, we used hardware-in-the-loop simulations and observed its effectiveness in tracking the maximum power point in a very short time.
 >>>
 
