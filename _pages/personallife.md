@@ -38,3 +38,20 @@ However, living in New England made me connect to the nature and now wherever I 
   <img width="460" height="300" src="../images/nature1.png">
 </p>
 <div align="center">Lake Tahoe, Nevada</div>
+
+<br/>
+<br/>
+Furthermore, by living in New England, I have found my favorite hobby and it is hiking!
+
+<p align="center">
+  <img width="460" height="300" src="../images/hike1.png">
+</p>
+<div align="center">Mt Cube, Orford, New Hampshire</div>
+
+<p align="center">
+  <img width="460" height="300" src="../images/hike2.png">
+</p>
+<div align="center">Franconia Range, Franconia, New Hampshire</div>
+
+<br/>
+<br/>
