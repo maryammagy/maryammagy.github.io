@@ -68,6 +68,7 @@ During my Ph.D. studies at Dartmouth College, I have been involved in different 
 
 
 **Intelligent control system design (artificial intelligence)**
+
 During my studies in the first years of college, when I was studying all these hard mathematics and control theory courses in Electrical Engineering, I was always amazed and curious how our brain does all of those stuff so quickly. We do lots of math operations in our mind without even trying. We control our body, movements, and make decisions in a way that seems so effortless. That was actually one of the main reasons I pursued Neuroscience in my Ph.D. to better understand the brain. So, I studied [intelligent control systems](http://www2.ece.ohio-state.edu/~passino/ic-chapter.pdf) which are inspired by human knowledge and logic during my undergrad and master's studies.
 
 
