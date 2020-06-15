@@ -86,6 +86,12 @@ The proposed approach using fuzzy descriptor representation with model-based dyn
 The proposed approach using polynomial fuzzy model is a generalization of the standard Takagi–Sugeno fuzzy models and linear matrix inequality. We developed a direct maximum power (DMP)-based control structure which was formulated in terms of Sum of Squares (SOS) conditions. Unlike the conventional approaches, the proposed approach did not require exploring the maximum power operational point. Finally, in order to show the effectiveness of the method, we used hardware-in-the-loop simulations and observed its effectiveness in tracking the maximum power point in a very short time.
 >>>
 
+* **Distributed fuzzy controller design for systems with partial differential equation modeling.** In this study which was in collaboration with outstanding researchers from Universidad de Valladolid in Spain, we proposed a systemic approach for designing fuzzy controller for systems that their dynamics can be modeled as partial differential equations. The results of the study are published in [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/abstract/document/7888450/authors#authors), and [IFAC-PapersOnLine](https://www.sciencedirect.com/science/article/pii/S2405896316323795).
+
+<p align="center">
+  <img width="460" height="300" src="../images/PDE.png">
+</p>
+
 
 
 
