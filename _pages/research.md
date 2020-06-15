@@ -109,4 +109,7 @@ The proposed approach using polynomial fuzzy model is a generalization of the st
 >>>
 **Fault detection and classification.** Artificial intelligence can be used to detect fault in system and classify the type of the fault. For example, consider an autonomous vehicle that is driving in the road. It is very important for the vehicle to be able to detect a possible fault in its control system, classify it and deal with it properly and safely. In this project, we proposed two different approaches for fault detection and classification using artificial intelligence. We applied the proposed methods on [electrical steering assist system](https://miscj.aut.ac.ir/article_568_0.html), and [Double-Circuit Transmission Line](https://link.springer.com/chapter/10.1007/978-3-319-19222-2_19) to show the effectiveness of the approaches.
 >>>
+>>>
+**Market price forecasting.** In order to maximize the profits in the competitive market, prediction of the price is vital. We used artificial intelligence (fuzzy time series, fuzzy C-means clustering, and Teaching-Learning-Based optimization algorithm) to predict the next days electricity market price based on the previous day's price and consumers' electrical load. We used Australia and Singapore's electricity market and showed how effective our approach was to predict the price. You can read more about it [here](https://www.tandfonline.com/doi/full/10.1080/21642583.2014.970733).
+>>>
 
