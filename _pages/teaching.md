@@ -9,6 +9,9 @@ redirect_from:
 
 From the beginning I should say that I **love** teaching! One of the main reasons I like to stay in academia and be a professor is to be able to teach! I have one principle for teaching: ***Try your best to keep the students happy and involved in the class while doing your best that students would finish the term being proud that they have learnt a lot and want to use that knowledge someday in future!*** 
 <br/>
+<br/>
+<br/>
+<br/>
 Maybe my passion for teaching comes from my experience of having two specifically amazing teachers in the middle school, one in Biology class (Mr. Naghshineh) and the other one in English class (Mr. Tamaddon). Their passion and their knowledge in the subject they were teaching was extraordinary. I learnt so much from them and I am still in touch with them sometimes, even though it is passed almost 16 years. I will always admire them.
 <br/>
 <br/>
