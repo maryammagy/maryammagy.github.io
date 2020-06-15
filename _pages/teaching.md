@@ -44,5 +44,5 @@ It was only recently that I thought I should have more formal evaluation (and no
 
   <iframe frameborder="0" scrolling="yes"
      width="640" height="480"
-     src="https://drive.google.com/file/d/url=https://github.com/mrakhsha/mrakhsha.github.io/raw/master/files/evaluation1.pdf/preview">
+     src="https://drive.google.com/file/d/url=https://github.com/mrakhsha/mrakhsha.github.io/raw/master/files/evaluation1.pdf">
   </iframe>
