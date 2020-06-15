@@ -55,3 +55,34 @@ Furthermore, by living in New England, I have found my favorite hobby and it is 
 
 <br/>
 <br/>
+Unfortunately since 6 months of the year is winter here and I am not that much a winter hiker, I have other hobbies that I do when it cold outside such as playing foosball, bowling, drawing, and cooking!
+
+<p align="center">
+  <img width="460" height="300" src="../images/foosball.png">
+</p>
+<div align="center">Collis Center, Dartmouth College</div>
+
+<p align="center">
+  <img width="460" height="300" src="../images/bowling.png">
+</p>
+<div align="center">Maple Lanes bowling alley, Claremont, New Hampshire</div>
+
+<p align="center">
+  <img width="460" height="300" src="../images/drawing.png">
+</p>
+<div align="center">Charcoal drawing while staying at home to save lives
+</div>
+
+<p align="center">
+  <img width="460" height="300" src="../images/food.png">
+</p>
+<div align="center">A Persian food called Tahchin</div>
+
+<br/>
+<br/>
+Finally, I should mention I do all these activities while I am listening to may favorite singer **Celine Dion** which I can't be happier that I went to her concert in Boston and my dream came true seeing her singing My Heart Will Go On live!
+
+<p align="center">
+  <img width="460" height="300" src="../images/celine.png">
+</p>
+<div align="center">CEline Dion's concert in Boston</div>
