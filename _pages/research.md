@@ -99,6 +99,9 @@ The proposed approach using polynomial fuzzy model is a generalization of the st
 **Long summary:** In this study, we presented a systematic approach to deal with the saturated control of a class of distributed parameter systems that can be modeled by the first-order hyperbolic partial differential equations (PDE). The approach extends (also improves over) the existing fuzzy Takagi–Sugeno (TS) state feedback designs for such systems by applying the concepts of the polynomial sum-of-squares (SOS) techniques. First, a fuzzy-polynomial model via Taylor series was used to model the semi-linear hyperbolic PDE system. Second, the closed-loop exponential stability of the fuzzy-PDE system was studied through the Lyapunov theory. This allowed us to derive a design methodology in which a more complex fuzzy state-feedback control was designed in terms of a set of SOS constraints which were then numerically computed via semidefinite programming. Finally, we showed the effectiveness of the proposed approach with simulating the output of a non-isothermal plug-flow reactor.
 >>>
 
+* **There are more artificial intelligent projects I have done!** In order to make this page a bit tidy I am going to list some of other projects I have done with a short description.
 
+## Design of networked polynomial control systems
+In this project
 
 
