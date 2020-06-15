@@ -55,7 +55,7 @@ Furthermore, by living in New England, I have found my favorite hobby and it is 
 
 <br/>
 <br/>
-Unfortunately since 6 months of the year is winter here and I am not that much a winter hiker, I have other hobbies that I do when it is cold outside such as playing foosball (I am good at it), bowling (I thought I am good at it until I played against a pro), drawing (I am not sure about this), and cooking(I am good at it! I believe that)!
+Unfortunately since 6 months of the year is winter here and I am not that much of a winter hiker, I have other hobbies that I do when it is cold outside such as playing foosball (I am good at it), bowling (I thought I am good at it until I played against a pro), drawing (I am not sure about this), and cooking(I am good at it! I believe that)!
 
 <p align="center">
   <img width="460" height="300" src="../images/foosball.png">
