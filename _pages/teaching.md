@@ -24,7 +24,7 @@ Later on when I was a Junior and Senior in college, I started teaching Applied E
 <br/>
 <br/>
 <br/>
-During the years of my undergraduate and graduate studies I have had the honor of working side by side of many professors as teacher assistant (listed below) and I have learnt a lot from them about **teaching skills**. Most importantly, I have had the pleasure and honor of working side by side of students with different nationalities, believes, gender, and sexual orientations as their their teaching assistant. It was an honor for me to be their teaching assistant because they have taught me the most important skill in human life and that is how a diverse group of people can **respect each other, be kind to each other, support each other, collaborate with each other to reach the group's goal**.
+During the years of my undergraduate and graduate studies I have had the honor of working side by side of many professors as teaching assistant (listed below) and I have learnt a lot from them about **teaching skills**. Most importantly, I have had the pleasure and honor of working side by side of students with different nationalities, believes, gender, and sexual orientations as their their teaching assistant. It was an honor for me to be their teaching assistant because they have taught me the most important skill in human life and that is how a diverse group of people can **respect each other, be kind to each other, support each other, collaborate with each other to reach the group's goal**.
 <br/>
 <br/>
 <br/>
@@ -40,4 +40,5 @@ During the years of my undergraduate and graduate studies I have had the honor o
 <br/>
 <br/>
 <br/>
+
 
