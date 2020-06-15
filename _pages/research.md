@@ -71,6 +71,19 @@ During my Ph.D. studies at Dartmouth College, I have been involved in different 
 
 During my studies in the first years of college, when I was studying all these hard mathematics and control theory courses in Electrical Engineering, I was always amazed and curious how our brain does all of those stuff so quickly. We do lots of math operations in our mind without even trying. We control our body, movements, and make decisions in a way that seems so effortless. That was actually one of the main reasons I pursued Neuroscience in my Ph.D. to better understand the brain. So, I studied [intelligent control systems](http://www2.ece.ohio-state.edu/~passino/ic-chapter.pdf) which are inspired by human knowledge and logic during my undergrad and master's studies.
 
+* **Fuzzy controller design to improve the efficiency of renewable energies.** In this project which was in collaboration with Prof. [Frede Blaabjerg](https://en.wikipedia.org/wiki/Frede_Blaabjerg) in Aalborg University in Denmark and amazing researchers from Shiraz University of Technology in Iran, we studied how we can use different types of fuzzy controllers to improve the efficiency of renewable energy production, specifically for solar energy. The results of the project was published in different journals, such as [IEEE Journal of Emerging and Selected Topics in Power Electronics](https://ieeexplore.ieee.org/abstract/document/7934313), and [Journal of Dynamic Systems, Measurement, and Control](https://asmedigitalcollection.asme.org/dynamicsystems/article/139/5/051010/384527/Dynamic-Model-Based-Fuzzy-Controller-for-Maximum).
+
+<p align="center">
+  <img width="460" height="300" src="../images/solar.png">
+</p>
+
+>>>
+**1-minute summary:** Imagine you have a house with solar cells on the roof of the house to generate your own electricity. During the day, based on the weather, cloud coverage, and temperature, the amount of sun light that hits the solar cell changes. Furthermore, the number of home appliances that needs electricity to function also changes during the day. We have studied how can we manipulate some properties of solar cell during the day based on the weather and electrical appliances being used in the house to ensure that we are generating the maximum solar energy from the solar cells all day. We have used an approach called fuzzy control which tries to emulate the experience and knowledge of a human operator to ensure the maximum solar power generation.
+>>>
+
+
+
+
 
 
 
