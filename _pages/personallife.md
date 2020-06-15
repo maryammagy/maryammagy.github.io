@@ -23,7 +23,7 @@ My hometown is a warm and dry city so I am not sure what I was thinking when I m
 <p align="center">
   <img width="460" height="300" src="../images/ice.png">
 </p>
-<div align="center">*Ice castle in Woodstock, New Hampshire*</div>
+<div align="center">Ice castle in Woodstock, New Hampshire</div>
 
 <br/>
 <br/>
@@ -32,9 +32,9 @@ However, living in New England made me connect to the nature and now wherever I 
 <p align="center">
   <img width="460" height="300" src="../images/nature2.png">
 </p>
-<div align="center">*Hanover, New Hampshire*</div>
+<div align="center">Hanover, New Hampshire</div>
 
 <p align="center">
   <img width="460" height="300" src="../images/nature1.png">
 </p>
-<div align="center">*Lake Tahoe, Nevada*</div>
+<div align="center">Lake Tahoe, Nevada</div>
