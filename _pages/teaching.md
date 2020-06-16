@@ -61,3 +61,8 @@ It was only recently that I thought I should have more formal evaluation (and no
 </div>
 <br/>
 <br/>
+
+**This card from students means a lot to me!**
+<p align="center">
+  <img width="460" height="300" src="../images/card.png">
+</p>
