@@ -80,7 +80,7 @@ Unfortunately since 6 months of the year is winter here and I am not that much o
 
 <br/>
 <br/>
-Finally, I should mention I do all these activities while I am listening to may favorite singer **Celine Dion** which I can't be happier that I went to her concert in Boston and my dream came true seeing her singing My Heart Will Go On live!
+Finally, I should mention I do all these activities while I am listening to my favorite singer **Celine Dion** which I can't be happier that I went to her concert in Boston and my dream came true seeing her singing My Heart Will Go On live!
 
 <p align="center">
   <img width="460" height="300" src="../images/celine.png">
