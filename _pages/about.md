@@ -14,10 +14,10 @@ I am passionate about Neural Engineering, Computational and Cognitive Neuroscien
 
 Education
 ======
-2017-2022  Ph.D. Computational and Cognitive Neuroscience, Dartmouth College, NH, USA
+2017-2022   Ph.D. Computational and Cognitive Neuroscience, Dartmouth College, NH, USA
 
-2015-2017  M.S. Electrical Engineering (Signals, Systems and Control), Notre Dame, IN, USA
+2015-2017   M.S. Electrical Engineering (Signals, Systems and Control), Notre Dame, IN, USA
 
-2013-2015  M.S. Electrical Engineering (Control), Shiraz University of Technology, IR
+2013-2015   M.S. Electrical Engineering (Control), Shiraz University of Technology, IR
 
-2009-2013  B.S. Electrical Engineering (Systems and Control), Shiraz University, IR
+2009-2013   B.S. Electrical Engineering (Systems and Control), Shiraz University, IR

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohsen Rakhshan"
+title                    : "Mohsen Rakhshan, Ph.D."
 title_separator          : "-"
-name                     : &name "Mohsen Rakhshan"
-description              : &description "Ph.D. candidate at Dartmouth College"
+name                     : &name "Mohsen Rakhshan, Ph.D."
+description              : &description "BME Distinguished Fellow at Johns Hopkins University"
 url                      : https://mrakhsha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mrakhsha/mrakhsha.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohsen Rakhshan"
+  name             : "Mohsen Rakhshan, Ph.D."
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate at Dartmouth College"
-  location         : "Hanover, New Hampshire"
+  bio              : "BME Distinguished Fellow at Johns Hopkins University"
+  location         : "Baltimore, Maryland"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=20eb_X8AAAAJ&hl=en"
   email            : "mohsen.rakhshan.gr AT dartmouth.edu"
