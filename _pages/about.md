@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am an incoming tenure-track Assistant Professor at the Electrical and Computer Engineering department at the University of Central Florida as part of the Disability, Aging, and Technology (DAT) research cluster starting August 2023. My lab's research will be in the field of Neural Engineering with a particular focus on neural prostheses and brain-machine interfaces.
+
 I am currently the Biomedical Engineering Distinguished Fellow at Johns Hopkins University. I have a Ph.D. in Computational and Cognitive Neuroscience from Dartmouth College. Prior to that, I graduated from University of Notre Dame with a M.S. in Electrical Engineering focusing on Signals, Systems, and Control. I also graduated from Shiraz University with a B.S. in Electrical Engineering focusing on Systems and Control.  
 
 I am passionate about Neural Engineering, Computational and Cognitive Neuroscience, Teaching, Cooking, and Hiking (and sometimes Running).  
@@ -28,7 +29,9 @@ Education
 
 I am hiring
 ======
-**Note**: I will be hiring graduate students for the Fall of 2023, so if you are interested in working in a respectful and fun research environment and want to do rigorous, meaningful, and ethical science, and want to be impactful for society, and you fit in one of the following tracks, please reach out to me:
+
+
+I will be hiring graduate students for the Fall of 2023, so if you are interested in working in a respectful and fun research environment and want to do rigorous, meaningful, and ethical science, and want to be impactful for society, and you fit in one of the following tracks, please reach out to me:
 
 Track 1:
 Hands-on experience with EEG and EMG data collection and analyses
