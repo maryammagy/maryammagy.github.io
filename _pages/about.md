@@ -26,7 +26,8 @@ Education
 
 
 
-
+Hiring
+======
 **Note**: I will be hiring graduate students for the Fall of 2023, so if you are interested in working in a respectful and fun research environment and want to do rigorous, meaningful, and ethical science, and want to be impactful for society, and you fit in one of the following tracks, please reach out to me:
 
 Track 1:
