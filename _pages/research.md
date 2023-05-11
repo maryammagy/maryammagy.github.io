@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+** UPDATE IS ON THE WAY **
+
+
 My research studies so far can be summarized into two broad areas:
   * Role of reward feedback in cognition and metacognition (real intelligence)
   * Intelligent control system design (artificial intelligence)
