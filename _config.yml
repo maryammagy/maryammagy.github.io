@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mohsen Rakhshan, Ph.D."
 title_separator          : "-"
 name                     : &name "Mohsen Rakhshan, Ph.D."
-description              : &description "BME Distinguished Fellow at Johns Hopkins University"
+description              : &description "Incoming Assistant Professor at the UCF ECE"
 url                      : https://mrakhsha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mrakhsha/mrakhsha.github.io"
@@ -86,8 +86,8 @@ author:
   location         : "Baltimore, Maryland"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=20eb_X8AAAAJ&hl=en"
-  email            : "mohsen.rakhshan.gr AT dartmouth.edu"
-  researchgate     : "https://www.researchgate.net/profile/Mohsen_Rakhshan3"
+  email            : "mohsenrakhshan AT protonmail DOT com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
