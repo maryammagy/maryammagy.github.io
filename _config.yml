@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Maryam Maghsoudi, Ph.D."
-  avatar           : "profile.png"
+  #avatar           : "profile.png"
   bio              : "master of computer science at Shahid Beheshti University, Tehran, Iran"
   location         : "Tehran, Iran"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=20eb_X8AAAAJ&hl=en"
+  #googlescholar    : "https://scholar.google.com/citations?user=20eb_X8AAAAJ&hl=en"
   email            : "mohsenrakhshan AT protonmail DOT com"
   researchgate     : 
   uri              :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mrakhsha"
+  github           : "maryammagy"
   google_plus      :
   keybase          :
   instagram        :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mohsen_rakhshan"
+  #twitter          : "mohsen_rakhshan"
   vine             :
   weibo            :
   xing             :
