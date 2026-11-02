@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /_pages/
+Disallow: /_data/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_drafts/
+
+Sitemap: https://maryammagy.github.io/sitemap.xml
